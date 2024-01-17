@@ -1,0 +1,19 @@
+High-Level Language:
+
+ ●  Abstraction level:  Abstracted from hardware details.
+ ●  Readability and ease of use:  Generally more readable and easier to use.
+ ●  Portability:  Typically more portable across different platforms.
+ ●  Memory management:  Automatic memory management.
+ ●  Development speed:  Faster development due to higher-level abstractions.
+ ●  Hardware interaction:  Limited interaction with hardware.
+ ●  Examples:  Python, Java, C++.
+
+Low-Level Language:
+
+ ●  Abstraction level:  Closer to hardware details.
+ ●  Readability and ease of use:  Often less readable and may require more effort.
+ ●  Portability:  Less portable, as code may be closely tied to specific hardware.
+ ●  Memory management:  Manual memory management.
+ ●  Development speed:  Slower development due to manual control over details.
+ ●  Hardware interaction:  Direct interaction with hardware.
+ ●  Examples:  Assembly language, machine code.
