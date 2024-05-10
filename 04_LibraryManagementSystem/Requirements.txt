@@ -1,0 +1,15 @@
+Requirements :
+1) Storage of information
+2) Book Identification
+3) Book Details
+4) Book Copies
+5) User Types
+6) Library Cards
+7) Borrow Limits
+8) Borrowing Duration
+9) Book Reservation
+10) Issuance Record
+11) Renewals
+12) Overdue Notifications
+13) Reservations for Unavilable Books
+14) Book search
