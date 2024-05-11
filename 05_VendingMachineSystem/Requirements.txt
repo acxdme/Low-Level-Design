@@ -1,0 +1,11 @@
+Requirements : 
+1) Vending machine has different products in slots
+2) State : [NoMoneyInserted] , [MoneyInserted] , [DispenseState] 
+3) Regular User and Admin
+4) Admin can add products and remove products
+5) User can select product by slot Number
+6) User can put cash into the vending machine
+7) The machine can add the amount 
+8) The machine can validate the amount
+9) The machine can change and dispense product
+10) If money is less , show error and return money.
