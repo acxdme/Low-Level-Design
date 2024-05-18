@@ -1,0 +1,11 @@
+Requirements : 
+1) The restaurant offers a menu with different sections and items
+2) Waiters can create orders for a table and add items.
+3) Each person's order can include multiple menu items
+4) The system should show available tables for walk-in customers.
+5) The system should allow for table reservation.
+6)
+7)
+8)
+9)
+10)
