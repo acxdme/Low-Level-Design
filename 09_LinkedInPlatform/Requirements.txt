@@ -1,0 +1,5 @@
+Requirements :
+1) Profile customization
+2) Search exploration
+3) Content Managemnt
+4) Follow Users
